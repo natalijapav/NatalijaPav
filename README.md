@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Natalija  
+# Hi, I'm Natalija 👋 – your friendly QA explorer 🕵️‍♀️ Passionate about uncovering hidden bugs, improving user experience, and making software more reliable every day. 🚀
 
 ### 💻 About Me
-- 🌱 Currently learning **Software Testing** (Manual & Automation)  
-- 🔍 Exploring **QA techniques, SQL, API testing (Postman), Selenium, JavaScript**  
-- 🚀 Transitioning from manual testing towards **test automation**  
-- 🎯 Passionate about **quality, detail-oriented work, and continuous learning**  
+- 🧪 Skilled in **Manual Testing**: writing and executing test cases, reporting bugs, performing exploratory testing  
+- 📑 Experienced in creating **bug reports** and **test documentation**  
+- 🌐 Hands-on practice with **API testing** using **Postman**  
+- 🗄️ Worked with **SQL** for data validation and test support  
+- 📱 Interested in **mobile testing** and continuous improvement in QA practices  
+- 🚀 Currently deep into **test automation basics** (JS + Playwright)  
 
 ---
 
