@@ -1,4 +1,4 @@
-# Hi, I'm Natalija 👋 – your friendly QA explorer 🕵️‍♀️ Passionate about uncovering hidden bugs, improving user experience, and making software more reliable every day. 🚀
+# Hi, I'm Natalija 👋 – your friendly QA explorer 🕵️‍♀️ Focused about uncovering hidden bugs, improving user experience, and making software more reliable every day. 🚀
 
 ### 💻 About Me
 - 🧪 Skilled in **Manual Testing**: writing and executing test cases, reporting bugs, performing exploratory testing  
