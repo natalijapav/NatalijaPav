@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tvoj-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/natalija-pavlovic-)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:natalijapavlovic7@gmail.com)
 
 ---
