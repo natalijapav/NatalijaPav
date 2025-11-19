@@ -6,7 +6,7 @@
 - 🌐 Hands-on practice with **API testing** using **Postman**  
 - 🗄️ Worked with **SQL** for data validation and test support  
 - 📱 Interested in **mobile testing** and continuous improvement in QA practices  
-- 🚀 Currently deep into **test automation basics** (JS + Playwright)  
+- 💻 Practical experience with Selenium WebDriver (C#) and actively improving automation skills
 
 ---
 
